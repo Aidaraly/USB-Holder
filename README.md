@@ -1,9 +1,10 @@
 # USB-Holder
 # Group member
-* Anarbaev Aidaraly,
-I'm alone.
+* Anarbaev Aidaraly, I'm alone, So I made everything.
 # Description
 *  My Project is USB, Sd Card and MicroSd Card Holder. I make two variation of my project. First usually holder. Second variant is with binding so you can fix it on the edge of table. I chose this project because I wanted to help sort flash drives. For example, I have a lot of flash drives and therefore they are everywhere. But with this holder everything will be in place.
+* [Link to Video](https://youtu.be/1DmwNXUrANs)
+* [Link to Thingiverse](https://www.thingiverse.com/thing:4244199)
 # This is first variant which is usual.
 ![Untitled - SketchUp Pro 2020 (29 days left in TRIAL) 3_27_2020 12_19_44 PM](https://user-images.githubusercontent.com/44225090/77728637-1a918000-7027-11ea-8a0e-c6f58f31ef2a.png)
 ![Untitled - SketchUp Pro 2020 (29 days left in TRIAL) 3_27_2020 12_19_50 PM](https://user-images.githubusercontent.com/44225090/77728641-1bc2ad00-7027-11ea-9b3d-7992e5fbf502.png)
